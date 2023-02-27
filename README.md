@@ -78,7 +78,7 @@ Testing the webhook.....
                 - Credentials: select the slack-token credentials (created above) from the drop-down    
 
 
-### GitHub webhook
+### GitHub webhook (used to automate the manual process of clicking the "build now" option on jenkins-pipeline dashboard) 
 
 1) #### Add jenkins webhook to github
     - Access your repo **devops-fully-automated-infra** on github
