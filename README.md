@@ -56,7 +56,7 @@ Testing teh webhook.....
     - Repositories
         - Repository URL: FILL YOUR OWN REPO URL (that we created by importing in the first step)
         - Branch Specifier (blank for 'any'): */main
-        - Script Path: Jenkinsfile
+        - Script Path: Jenkinsfile (update repo url with your repo url)
     - Save
 
 
